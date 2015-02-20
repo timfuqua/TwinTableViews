@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A413BA9B-8A52-44E7-9C3E-35BEC2B2D001</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TwinTableViews</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9E91DE35CAF586C5D108ED1A86E6E400A2FA2135</key>
+		<string>github.com:timfuqua/TwinTableViews.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TwinTableViews/TwinTableViews.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9E91DE35CAF586C5D108ED1A86E6E400A2FA2135</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:timfuqua/TwinTableViews.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9E91DE35CAF586C5D108ED1A86E6E400A2FA2135</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9E91DE35CAF586C5D108ED1A86E6E400A2FA2135</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TwinTableViews</string>
+		</dict>
+	</array>
+</dict>
+</plist>

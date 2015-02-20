@@ -13,6 +13,7 @@
 		C447EE291A96C1B400A269C5 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C447EE281A96C1B400A269C5 /* Images.xcassets */; };
 		C447EE2C1A96C1B400A269C5 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C447EE2A1A96C1B400A269C5 /* LaunchScreen.xib */; };
 		C447EE381A96C1B500A269C5 /* TwinTableViewsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C447EE371A96C1B500A269C5 /* TwinTableViewsTests.swift */; };
+		C447EE421A96E10600A269C5 /* SelectableFoodItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = C447EE411A96E10600A269C5 /* SelectableFoodItem.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		C447EE311A96C1B500A269C5 /* TwinTableViewsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TwinTableViewsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C447EE361A96C1B500A269C5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C447EE371A96C1B500A269C5 /* TwinTableViewsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwinTableViewsTests.swift; sourceTree = "<group>"; };
+		C447EE411A96E10600A269C5 /* SelectableFoodItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SelectableFoodItem.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			children = (
 				C447EE211A96C1B400A269C5 /* AppDelegate.swift */,
 				C447EE231A96C1B400A269C5 /* ViewController.swift */,
+				C447EE411A96E10600A269C5 /* SelectableFoodItem.swift */,
 				C447EE251A96C1B400A269C5 /* Main.storyboard */,
 				C447EE281A96C1B400A269C5 /* Images.xcassets */,
 				C447EE2A1A96C1B400A269C5 /* LaunchScreen.xib */,
@@ -213,6 +216,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C447EE241A96C1B400A269C5 /* ViewController.swift in Sources */,
+				C447EE421A96E10600A269C5 /* SelectableFoodItem.swift in Sources */,
 				C447EE221A96C1B400A269C5 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
